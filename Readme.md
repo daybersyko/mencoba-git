@@ -1,0 +1,2 @@
+Tidur
+Bangun
