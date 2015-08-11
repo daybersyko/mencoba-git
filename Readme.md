@@ -1,2 +1,3 @@
 Tidur
 Bangun
+Tidur lagi
